@@ -6,4 +6,4 @@ I have written the code alone.
 
 Gil
 
-![alt text]/(screenshot.png)
+https://github.com/gilzada8/PostPC-EX1/blob/master/screenshot.png
